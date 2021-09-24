@@ -1,4 +1,4 @@
-import 'package:animated_fab_menu/animated_fab_menu.dart';
+import 'package:animated_fab_button_menu/animated_fab_button_menu.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 

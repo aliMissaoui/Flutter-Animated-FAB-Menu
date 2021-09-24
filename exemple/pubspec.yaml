@@ -34,7 +34,7 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
-  animated_fab_menu:
+  animated_fab_button_menu:
     path: ../
 
 dev_dependencies:
