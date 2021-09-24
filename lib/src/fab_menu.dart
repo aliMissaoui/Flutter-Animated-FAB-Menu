@@ -1,6 +1,6 @@
-import 'package:animated_fab_menu/src/item_child.dart';
-import 'package:animated_fab_menu/src/fab_menu_item.dart';
-import 'package:animated_fab_menu/src/hero_dialog_route.dart';
+import 'package:animated_fab_button_menu/src/item_child.dart';
+import 'package:animated_fab_button_menu/src/fab_menu_item.dart';
+import 'package:animated_fab_button_menu/src/hero_dialog_route.dart';
 import 'package:flutter/material.dart';
 
 class FabMenu extends StatefulWidget {
