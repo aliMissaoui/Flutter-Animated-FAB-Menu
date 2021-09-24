@@ -24,7 +24,7 @@ By pressing the floating action button, a page containing a **menu** list will b
 
 *The package will handle the animation by itself.*
 
-![animated_fab_menu](https://user-images.githubusercontent.com/68671238/134635378-5b0a3744-f6b2-4943-87ae-3f43a4d16d1f.png)
+![animated_fab_menu](https://user-images.githubusercontent.com/68671238/134653636-1e0f070c-588a-4189-aa7f-45e9957ccae9.png)
   
 <hr>
 
