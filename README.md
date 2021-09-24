@@ -33,7 +33,7 @@ By pressing the floating action button, a page containing a **menu** list will b
 1. Add the latest version of package to your `pubspec.yaml` (and run `dart pub get`):
 ```dart
 dependencies:
-  animated_fab_menu: ^0.0.1
+  animated_fab_button_menu: ^0.0.1
 ```
 2. Import the package and use it in your Flutter App.
 ```dart
