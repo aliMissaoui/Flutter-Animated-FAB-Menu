@@ -1,7 +1,8 @@
 name: animated_fab_menu
-description: A new Flutter package project.
+description: Flutter package to implement an animated FAB with a scrollable Menu.
 version: 0.0.1
-homepage:
+author: Ali Missaoui <missaouiali.aly@gmail.com>
+homepage: https://github.com/aliMissaoui/Flutter-Animated-FAB-Menu
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
